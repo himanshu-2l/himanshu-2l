@@ -11,7 +11,7 @@
 
 - 🚀 Currently competing in **BAH 2026** (ISRO hackathon via Hack2skill)
 
-- 📱 Building **ScrollStopper** — a social-first Android app tackling short-form video addiction (Kotlin + Jetpack Compose + Firebase)
+- 📱 Building **ScrollStopper** —(Kotlin + Jetpack Compose + Firebase)
 
 - 📡 Conducting **5G/6G handover prediction research** — building a Flutter data-collection app to gather real-world 5G NR network data and improve on existing LSTM + Random Forest baselines, aimed at publication
 
