@@ -1,17 +1,15 @@
 <h1 align="center">What's up?👋, I'm Himanshu, your friendly neighborhood coder 🕸️💻</h1>
-<h3 align="center">4th-year B.Tech CSE (Data Science) @ SSTC Bhilai | Building across Mobile, AI/ML & Research 🌐📱🔬</h3>
+<h3 align="center">2nd-year B.Tech CSE (Data Science) @ SSTC Bhilai | Building across Mobile, AI/ML & Research 🌐📱🔬</h3>
+
+<img src="https://media.tenor.com/M7ddw6ExFkEAAAAd/levi.gif" width="180" align="right" alt="Levi GIF"/>
 
 <p align="left"> <a href="https://twitter.com/himanshu_2l" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu_2l?logo=twitter&style=for-the-badge" alt="himanshu_2l" /></a> </p>
-
-<p align="center">
-  <img src="https://media.tenor.com/M7ddw6ExFkEAAAAd/levi.gif" width="220" alt="Levi GIF"/>
-</p>
 
 - 🏆 **SIH 2025 Finalist** (IIT Roorkee) · **India Innovates 2026 Finalist** · **CSIDC Hackathon Winner**
 
 - 🚀 Currently competing in **BAH 2026** (ISRO hackathon via Hack2skill)
 
-- 📱 Building **ScrollStopper** —(Kotlin + Jetpack Compose + Firebase)
+- 📱 Building **ScrollStopper** — a social-first Android app tackling short-form video addiction (Kotlin + Jetpack Compose + Firebase)
 
 - 📡 Conducting **5G/6G handover prediction research** — building a Flutter data-collection app to gather real-world 5G NR network data and improve on existing LSTM + Random Forest baselines, aimed at publication
 
@@ -142,7 +140,7 @@
 
 <h3 align="left">Featured Work:</h3>
 
-- **ScrollStopper** — Android app· Kotlin, Jetpack Compose, Firebase.
+- **ScrollStopper** — Android app to fight short-form video addiction · Kotlin, Jetpack Compose, Firebase
 - **5G/6G Handover Prediction Research** — Improving on LSTM + Random Forest baselines using real-world 5G NR data from a Tier-2 Indian city · Flutter, Android TelephonyManager
 - **AI-Powered CCTV Analytics** — Real-time detection & tracking pipeline · YOLOv8/v9, ByteTrack, DeepSORT, FastAPI
 - **HealthScan** — AI-driven health screening with ABDM integration
