@@ -1,15 +1,17 @@
 <h1 align="center">What's up?👋, I'm Himanshu, your friendly neighborhood coder 🕸️💻</h1>
-<h3 align="center">2nd-year B.Tech CSE (Data Science) @ SSTC Bhilai | Building across Mobile, AI/ML & Research 🌐📱🔬</h3>
-
-<img src="https://media.tenor.com/M7ddw6ExFkEAAAAd/levi.gif" width="180" align="right" alt="Levi GIF"/>
+<h3 align="center">4th-year B.Tech CSE (Data Science) @ SSTC Bhilai | Building across Mobile, AI/ML & Research 🌐📱🔬</h3>
 
 <p align="left"> <a href="https://twitter.com/himanshu_2l" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu_2l?logo=twitter&style=for-the-badge" alt="himanshu_2l" /></a> </p>
+
+<p align="center">
+  <img src="https://media.tenor.com/M7ddw6ExFkEAAAAd/levi.gif" width="220" alt="Levi GIF"/>
+</p>
 
 - 🏆 **SIH 2025 Finalist** (IIT Roorkee) · **India Innovates 2026 Finalist** · **CSIDC Hackathon Winner**
 
 - 🚀 Currently competing in **BAH 2026** (ISRO hackathon via Hack2skill)
 
-- 📱 Building **ScrollStopper** — a social-first Android app tackling short-form video addiction (Kotlin + Jetpack Compose + Firebase)
+- 📱 Building **ScrollStopper** — Android app (Kotlin + Jetpack Compose + Firebase)
 
 - 📡 Conducting **5G/6G handover prediction research** — building a Flutter data-collection app to gather real-world 5G NR network data and improve on existing LSTM + Random Forest baselines, aimed at publication
 
@@ -140,7 +142,7 @@
 
 <h3 align="left">Featured Work:</h3>
 
-- **ScrollStopper** — Android app to fight short-form video addiction · Kotlin, Jetpack Compose, Firebase
+- **ScrollStopper** — Android app · Kotlin, Jetpack Compose, Firebase
 - **5G/6G Handover Prediction Research** — Improving on LSTM + Random Forest baselines using real-world 5G NR data from a Tier-2 Indian city · Flutter, Android TelephonyManager
 - **AI-Powered CCTV Analytics** — Real-time detection & tracking pipeline · YOLOv8/v9, ByteTrack, DeepSORT, FastAPI
 - **HealthScan** — AI-driven health screening with ABDM integration
@@ -149,7 +151,16 @@
 - **Soil-Sense** — IoT-based crop recommendation system
 - **SafariFlow** — Inventory & billing management system
 
+<h3 align="left">📊 GitHub Stats:</h3>
+
+![](https://github-readme-stats.shion.dev/api?username=himanshu-2l&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=himanshu-2l&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=himanshu-2l&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=himanshu-2l&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/himanshu-2l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="himanshu-2l" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-2l&show_icons=true&locale=en&layout=compact" alt="himanshu-2l" /></p>
