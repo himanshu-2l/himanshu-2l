@@ -149,7 +149,7 @@
 - **LandGuard** — Satellite-based land monitoring system
 - **NEURO-TEST** — Neurological risk detection tool
 - **Soil-Sense** — IoT-based crop recommendation system
-- **SafariFlow** — Inventory & billing management system
+- **SafariFlow** — Inventory & billing management system.
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
