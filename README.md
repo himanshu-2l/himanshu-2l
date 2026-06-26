@@ -147,7 +147,7 @@
 - **AI-Powered CCTV Analytics** — Real-time detection & tracking pipeline · YOLOv8/v9, ByteTrack, DeepSORT, FastAPI
 - **HealthScan** — AI-driven health screening with ABDM integration
 - **LandGuard** — Satellite-based land monitoring system
-- **NEURO-TEST** — Neurological risk detection tool
+- **NEURO-TEST** — Neurological risk detection tool.
 - **Soil-Sense** — IoT-based crop recommendation system.
 - **SafariFlow** — Inventory & billing management system.
 
