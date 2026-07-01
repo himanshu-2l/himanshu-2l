@@ -154,7 +154,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 ![](https://github-readme-stats.shion.dev/api?username=himanshu-2l&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=himanshu-2l&theme=shadow_blue&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=himanshu-2l&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
