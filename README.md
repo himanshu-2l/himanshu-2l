@@ -9,7 +9,7 @@
 
 - 🏆 **SIH 2025 Finalist** (IIT Roorkee) · **India Innovates 2026 Finalist** · **CSIDC Hackathon Winner**
 
-- 🚀 Currently competing in **BAH 2026** (ISRO hackathon via Hack2skill)
+- 🚀 Currently competing in **SIH 2026** 
 
 - 📱 Building **ScrollStopper** — Android app (Kotlin + Jetpack Compose + Firebase)
 
