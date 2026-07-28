@@ -17,7 +17,7 @@
 
 - 🔭 Also explored: **AI-powered CCTV analytics** (YOLOv8/v9, ByteTrack/DeepSORT, FastAPI) for a retail analytics hackathon
 
-- 🌱 Currently learning **iOS/cross-platform development**
+- 🌱 Currently doing **iOS/cross-platform development**
 
 - 📫 Reach me at **himanshurathore212.2l@gmail.com**
 
