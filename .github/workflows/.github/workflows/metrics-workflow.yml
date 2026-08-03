@@ -1,0 +1,66 @@
+name: Generate Metrics (Isometric Calendar + Coding Habits)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:        # lets you trigger it manually too
+
+jobs:
+  isometric-calendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
+
+          # dark / blood-red theme to match the rest of the profile
+          config_output: svg
+          config_display: large
+          config_theme: dark
+          config_gradient: |
+            0,#000000
+            50,#8B0000
+            100,#1a1a1a
+
+          committer_branch: output
+          filename: isometric.svg
+
+  coding-habits:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          config_timezone: Asia/Kolkata
+
+          # dark / blood-red theme to match the rest of the profile
+          config_output: svg
+          config_display: large
+          config_theme: dark
+          config_gradient: |
+            0,#000000
+            50,#8B0000
+            100,#1a1a1a
+
+          committer_branch: output
+          filename: habits.svg
