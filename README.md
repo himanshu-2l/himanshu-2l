@@ -145,10 +145,10 @@
 - **ScrollStopper** — Android app · Kotlin, Jetpack Compose, Firebase
 - **5G/6G Handover Prediction Research** — Improving on LSTM + Random Forest baselines using real-world 5G NR data from a Tier-2 Indian city · Flutter, Android TelephonyManager
 - **AI-Powered CCTV Analytics** — Real-time detection & tracking pipeline · YOLOv8/v9, ByteTrack, DeepSORT, FastAPI
-- **HealthScan** — AI-driven health screening with ABDM integration
+- **HealthScan** — AI-driven health screening with ABDM integration.
 - **LandGuard** — Satellite-based land monitoring system.
 - **NEURO-TEST** — Neurological risk detection tool.
-- **Soil-Sense** — IoT-based crop recommendation system.
+- **Soil-Sense** — IoT-based crop recommendation system..
 - **SafariFlow** — Inventory & billing management system.
 
 <h3 align="left">📊 GitHub Stats:</h3>
