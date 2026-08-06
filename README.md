@@ -7,7 +7,7 @@
   <img src="https://media.tenor.com/M7ddw6ExFkEAAAAd/levi.gif" width="220" alt="Levi GIF"/>
 </p>
 
-- 🏆 **SIH 2025 Finalist** (IIT Roorkee) · **India Innovates 2026 Finalist** · **CSIDC Hackathon Winner**
+- 🏆 **SIH 2025 Finalist** (IIT Roorkee) · **India Innovates (World Biggest Civic Tech-Hck) 2026 Finalist** · **CSIDC Hackathon Winner**
 
 - 🚀 Currently competing in **SIH 2026** 
 
